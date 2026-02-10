@@ -1,2 +1,3 @@
-# 2025-2026-4GPb-NMinhKhue-lok411
-MOSH project of NGUYEN Minh Khue and VO Phuc Loc
+# 2025-2026-4GPb-NMinhKhue-lok411-ntruonginsatls
+MOSH project of NGUYEN Minh Khue, VO Phuc Loc, NGUYEN Truong Gia Khanh
+
